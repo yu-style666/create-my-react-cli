@@ -1,6 +1,6 @@
 {
   "name": "create-my-react-cli",
-  "version": "0.3.4",
+  "version": "1.0.0",
   "description": "Creates a react application using the command line.",
   "bin": {
     "create-my-react-cli": "cli.js"
